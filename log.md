@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: 3rd Jan, 2017 (Day 1)
+### Day 1: 3rd Jan, 2017 
 
 **Today's Progress**: Learned some ES6 array methods 
 
@@ -8,14 +8,14 @@
 
 **Link to work:** <<>>
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: 4th Jan 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Tried to do some JS react and also played with some flexBox today 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: It was not so tough today but today was not that productive
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: <<>>
 
 
 ### Day 1: June 27, Monday
