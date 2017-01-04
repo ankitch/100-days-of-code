@@ -8,7 +8,7 @@
 
 **Link to work:** <<>>
 
-### Day 1: 4th Jan 
+### Day 2: 4th Jan 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Tried to do some JS react and also played with some flexBox today 
