@@ -17,7 +17,23 @@
 
 **Link(s) to work**: <<>>
 
+### Day 3: 5th Jan 
+##### (delete me or comment me out)
 
+**Today's Progress**: did some react and learned some es6 and node
+
+**Thoughts**: Today I learned about express and learned routing also automated my workflow
+
+**Link(s) to work**: <<>>
+
+### Day 4: 6th Jan 
+##### (delete me or comment me out)
+
+**Today's Progress**: Tried to do some JS react and also played with some flexBox today 
+
+**Thoughts**: It was not so tough today but today was not that productive
+
+**Link(s) to work**: <<>>
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
