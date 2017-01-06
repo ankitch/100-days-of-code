@@ -22,7 +22,7 @@
 
 **Today's Progress**: did some react and learned some es6 and node
 
-**Thoughts**: Today I learned about express and learned routing also automated my workflow
+**Thoughts**: Today I learned about express and learned routing also automated my workflows
 
 **Link(s) to work**: <<>>
 
