@@ -34,11 +34,11 @@
 **Thoughts**: It was not so tough today but today was not that productive
 
 **Link(s) to work**: <<>>
-### Day 1: June 27, Monday
+### Day 5: 8th Jan
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Did some express templating with Ejs
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Took a break yesterday . 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
